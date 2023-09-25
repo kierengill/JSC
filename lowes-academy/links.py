@@ -1,0 +1,32 @@
+'''All Lowes and Academy on sale catalog links'''
+
+### Lowes ###
+Appliances = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294937007&int_cmp=landing%3AA%3AAppliances%3AOther%3ASavings_Page_Appliances'
+Patio = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294610451&int_cmp=landing%3AA%3APatio%3AOther%3ASavings_Page_Patio'
+Outdoor0Power0Equipment = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294612780&int_cmp=landing%3AA%3AOutdoorPowerEquipment%3AOther%3ASavings_Page_OPE'
+Grills = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294610397&int_cmp=landing%3AA%3AGrills%3AOther%3ASavings_Page_Grills'
+Lawn0and0Garden = 'https://www.lowes.com/pl/Savings/4294593284?catalog=1011552124422&int_cmp=landing%3AA%3ALawnGarden%3AOther%3ASavings_Page_Lawn_Garden'
+Building0Supplies = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294934297&int_cmp=landing%3AA%3ALumberBuildingMaterials%3AOther%3ASavings_Page_Building_Supplies'
+Bath = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294737305&int_cmp=landing%3AA%3ABath%3AOther%3ASavings_Page_Bath'
+Lighting0and0Ceiling0Fans = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294935637&int_cmp=landing%3AA%3ALighting%3AOther%3ASavings_Page_Lighting'
+Flooring = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294934373&int_cmp=landing%3AA%3AFlooring%3AOther%3ASavings_Page_Flooring'
+Tools = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294936478&int_cmp=landing%3AA%3ATools%3AOther%3ASavings_Page_Tools'
+Home0Decor = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294935484&int_cmp=landing%3AA%3AD%C3%A9cor%3AOther%3ASavings_Page_Home_Decor'
+Paint = 'https://www.lowes.com/pl/Savings/4294593284?catalog=4294729418&int_cmp=landing%3AA%3APaint%3AOther%3ASavings_Page_Paint'
+
+### Academy ###
+Mens0Shoes = 'https://www.academy.com/c/hot-deals/hot-deals-on-shoes-boots/mens-shoes-boots-hot-deals'
+Womens0Shoes = 'https://www.academy.com/c/hot-deals/hot-deals-on-shoes-boots/womens-shoes-boots-hot-deals'
+Boys0Shoes = 'https://www.academy.com/c/hot-deals/hot-deals-on-shoes-boots/boys-shoes-boots-hot-deals'
+Girls0Shoes = 'https://www.academy.com/c/hot-deals/hot-deals-on-shoes-boots/girls-shoes-boots--1'
+Athletic0Shoes = 'https://www.academy.com/c/hot-deals/hot-deals-on-shoes-boots/cleats-slides-athletic-shoes-hot-deals'
+Hunting = 'https://www.academy.com/c/hot-deals/hunting-outdoors/hunting--1'
+Shooting = 'https://www.academy.com/c/hot-deals/hunting-outdoors/shooting--1'
+Fishing = 'https://www.academy.com/c/hot-deals/hunting-outdoors/fishing--1'
+Camping0and0Hiking = 'https://www.academy.com/c/hot-deals/hunting-outdoors/camping-hiking'
+Boating = 'https://www.academy.com/c/hot-deals/hunting-outdoors/boating--1'
+Mens0Clothing = 'https://www.academy.com/c/hot-deals/hot-deals-on-apparel/mens-clothing--1'
+Womens0Clothing = 'https://www.academy.com/c/hot-deals/hot-deals-on-apparel/womens--clothing'
+Boys0Clothing = 'https://www.academy.com/c/hot-deals/hot-deals-on-apparel/boys-apparel--1'
+Girls0Clothing = 'https://www.academy.com/c/hot-deals/hot-deals-on-apparel/girls-apparel--1'
+
